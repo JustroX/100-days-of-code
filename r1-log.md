@@ -8,3 +8,6 @@ Created a landing page for a project. I managed to integrate it with some analyt
 
 ### R1D2
 Programmed the User and Group schema.
+
+### R1D3
+Programmed the Member Schema. Started unit testing for User and Group Schema.
