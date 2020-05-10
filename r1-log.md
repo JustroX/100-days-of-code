@@ -11,3 +11,6 @@ Programmed the User and Group schema.
 
 ### R1D3
 Programmed the Member Schema. Started unit testing for User and Group Schema.
+
+### R1D4
+Unit-tested the User Schema.
