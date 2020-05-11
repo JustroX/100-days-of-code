@@ -14,3 +14,5 @@ Programmed the Member Schema. Started unit testing for User and Group Schema.
 
 ### R1D4
 Unit-tested the User Schema.
+### R1D5
+Passed all tests for User, Member, and Group schemas.
